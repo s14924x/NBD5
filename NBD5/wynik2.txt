@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8YckstyYFTJ4FEUpkzGNlkJq57CpfFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s14924>; rel="up"
+Last-Modified: Sun, 06 Jun 2022 15:22:02 GMT
+ETag: "44qo7nZWQKcoQUbnbFzNxB"
+Date: Sun, 06 Jun 2022 15:24:44 GMT
+Content-Type: application/json
+Content-Length: 59
+
+{name: Ezreal, range: true, baseHP: 600, attackSpeed: 0.72}
